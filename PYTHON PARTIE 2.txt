@@ -1,0 +1,10 @@
+Dans ce module on aura : python et postgresql
+ Dans python nous avons vu BIOPYTHON, Tkinter
+Dans ce cours nous allons étudier : Flask en utilisant du html et un serveur web dont le plus utiliser est Apache
+Ensuite du web client : Chrome, internet exploreur, Firefox, Safari.
+Dans le HTML on as des balises :
+Head et body
+
+Au niveau des tableaux 
+on as colspan pour les lignes et
+rowspan pour les colonnes

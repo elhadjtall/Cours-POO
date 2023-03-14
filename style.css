@@ -1,0 +1,25 @@
+body { color: rgb(19, 1, 1);
+    background-color: darksalmon;
+
+}
+table { background-color: blue; font-size: large; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    background-size: auto;
+    border: 1 px solid;
+}
+th{
+    color: floralwhite;
+    font-size: 200%;
+    font-weight: bold;
+}
+td {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 150%;
+}
+.liste {
+    border: 5 px solid blue;
+    background-color: aquamarine;
+}
